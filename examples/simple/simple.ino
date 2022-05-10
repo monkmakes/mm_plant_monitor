@@ -1,4 +1,3 @@
-#include <SoftwareSerial.h>
 #include "PlantMonitor.h"
 
 PlantMonitor pm = PlantMonitor(10, 11); // RX, TX
