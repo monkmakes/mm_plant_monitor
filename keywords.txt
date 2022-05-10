@@ -1,0 +1,6 @@
+PlantMonitor	KEYWORD1
+getWater	KEYWORD2
+getTemp	KEYWORD2
+getHumidity KEYWORD2
+ledOn   KEYWORD2
+ledOff  KEYWORD2
